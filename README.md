@@ -1,4 +1,4 @@
-# weather_app_tutorial
+# weather_app
 
 A new Flutter project.
 
